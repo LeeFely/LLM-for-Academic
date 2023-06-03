@@ -4,4 +4,5 @@ A Prompt Engineering for scientific freshman to get started quickly
 本项目由现有开源LLM进行训练，接入知识图谱，对文献内容进行可视化。项目宗旨是个性化知识服务，不对全网进行训练，故可实现本地化部署。
 注：初代模型预计将仅对文本就行训练，后续可能开放多模态。
 项目作者是一位来自Bioscience本科生，但是项目将在一年后，即我考研结束后开始，即2023/06开始。因本人能力有限，希望有CS专业背景的开发者与我交流。
-![image](https://github.com/lf993/AcademicGPT/assets/83705537/a8848193-354b-4b65-b0a4-2abbe0f956fa)
+
+![image](https://github.com/lf993/AcademicGPT/assets/83705537/9d97b2e6-366b-442e-a47f-9fd49c63f391)
